@@ -1,0 +1,5 @@
+# Explicit Node version for Nixpacks builds
+# Railway/Nixpacks will detect this and install the correct release.
+
+[container]
+nodeVersion = "20"
